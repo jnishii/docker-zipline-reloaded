@@ -1,0 +1,6 @@
+yfinance
+pyfolio
+yahoo_earnings_calendar
+yahoofinancials
+watermark
+cufflinks

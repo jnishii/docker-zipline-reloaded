@@ -1,0 +1,5 @@
+# Jupyter
+jupyterlab
+notebook
+voila
+jupyter_nbextensions_configurator

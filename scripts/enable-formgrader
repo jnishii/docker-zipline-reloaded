@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jupyter nbextension enable --user --py nbgrader
+jupyter serverextension enable --user --py nbgrader

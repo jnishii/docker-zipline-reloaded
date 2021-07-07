@@ -1,0 +1,11 @@
+--- calendar_helpers.py.org	2021-07-07 14:03:35.000000000 +0900
++++ calendar_helpers.py	2021-07-07 14:04:35.000000000 +0900
+@@ -3,7 +3,7 @@
+ 
+ NANOSECONDS_PER_MINUTE = int(6e10)
+ 
+-NP_NAT = np.array([pd.NaT], dtype=np.int64)[0]
++NP_NAT = np.array([pd.NaT])[0]
+ 
+ 
+ def next_divider_idx(dividers, minute_val):
