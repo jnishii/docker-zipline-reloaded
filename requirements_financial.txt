@@ -1,5 +1,6 @@
 yfinance
-pyfolio
+# https://github.com/quantopian/pyfolio/issues/520
+git+https://github.com/quantopian/pyfolio
 yahoo_earnings_calendar
 yahoofinancials
 watermark
